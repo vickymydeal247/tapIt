@@ -1,3 +1,2 @@
-# tapIt
-marketplace
+# tapIt 
 technology java, spring boot, gradle, mysql
